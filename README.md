@@ -4,8 +4,6 @@ Get a random quote or search for quotes in your terminal. _Quotes provided via h
 
 <img src="assets/random.png">
 
-<img src="assets/search.png">
-
 ## Installation
 
 Install with `go get` or download a binary from the [latest release](https://github.com/jamiecollinson/quote/releases/latest). If you download a binary you'll need to ensure it's on your `path`.
@@ -23,6 +21,8 @@ Random quote:
 Science is nothing but perception.
 Plato
 ```
+
+<img src="assets/search.png">
 
 Search by keyword:
 
