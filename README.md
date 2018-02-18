@@ -1,10 +1,10 @@
 # Quote-cli
 
-## About
+Get a random quote or search for quotes in your terminal. _Quotes provided via https://favqs.com api_
 
-Get a random quote or search for quotes in your terminal.
+<img src="assets/random.png">
 
-_Quotes provided via https://favqs.com api_
+<img src="assets/search.png">
 
 ## Installation
 
